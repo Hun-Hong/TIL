@@ -5,3 +5,4 @@
 
 ## AL/ML
   - [GPT와 챗봇](https://github.com/Hun-Hong/TIL/blob/master/AI_ML/GPT_basic.md)
+  - [프롬프트 엔지니어링](https://github.com/Hun-Hong/TIL/blob/master/AI_ML/GPT_prompt.md)
