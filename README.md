@@ -8,4 +8,4 @@
   - [프롬프트 엔지니어링](https://github.com/Hun-Hong/TIL/blob/master/AI_ML/GPT_prompt.md)
 
 ## Python
-  - [Python이란?](https://github.com/Hun-Hong/TIL/blob/master/Python/python_intro.md)
+  - [Python이란?](https://github.com/Hun-Hong/TIL/blob/master/python/python_intro.md)
