@@ -9,4 +9,5 @@
 
 ## Python
   - [Python이란?](https://github.com/Hun-Hong/TIL/blob/master/python/python_intro.md)
-  - [Python의 데이터 타입](https://github.com/Hun-Hong/TIL/blob/master/python/python_1.md)
+  - [Python의 데이터와 표현식](https://github.com/Hun-Hong/TIL/blob/master/python/python_1.md)
+  - [Python의 타입의 동작과 특징](https://github.com/Hun-Hong/TIL/blob/master/python/python_2.md)
